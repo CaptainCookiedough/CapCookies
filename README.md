@@ -1,6 +1,6 @@
 
 
-- 👋 Hi, I’m @CapCookies aka Maria!
+- 👋 Hi, I’m @CaptainCookiedough aka Maria!
 - 👀 I’m interested in ... Data science and GIS.
 - 🌱 I’m currently learning ...The absolute basics of Python, data science, and GIS.
 - 💞️ I’m looking to collaborate on ... Anything, looking to grow my skills and get experience. 
